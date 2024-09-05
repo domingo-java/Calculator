@@ -89,7 +89,7 @@ The calculator will automatically recognize and apply the new operation without 
 1. **Clone the repository**:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/domingo-java/Calculator.git
    ```
 
 2. **Build the project using Maven**:
